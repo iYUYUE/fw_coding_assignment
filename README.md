@@ -1,4 +1,4 @@
-# Illumio Coding Assignment 2018
+# Illumio Coding Assignment
 
 ## Implementation
 ### Normal Firewall
