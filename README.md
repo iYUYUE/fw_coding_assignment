@@ -27,7 +27,9 @@ tree_fw_test_time 0 s
 tree_fw_test_speed 104186 q/s
 ```
 ## To-do
-* unbalanced random test
+* non-uniform random test
 * tree rotation
+* cached search
+
 # Teams of interest
 I feel excited about the works that are being done in all three teams and I love to learn new technologies if the need arises. I want to learn more about the teams to make a choice. Thanks.
